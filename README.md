@@ -31,7 +31,8 @@ light conditions and accident severity.
 ## Dashboard
 EXCEL 
 ![Road Accident Dashboard](https://github.com/thamaraikannan1722/Road-Accident-Analysis/blob/f60e19289764fa223808a1fa86774afc3152d96c/Road%20Accident%20Excel.png)
-![Road Accident Dashboard](
+POWER BI 
+![Road Accident Dashboard](https://github.com/thamaraikannan1722/Road-Accident-Analysis/blob/2b0e798b93ad80b159b0e0ac13d9468cf4756de3/Road%20Accident%20bi.png)
 
 ## Project Files
 
