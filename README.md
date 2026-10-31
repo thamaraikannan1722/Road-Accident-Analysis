@@ -29,8 +29,9 @@ light conditions and accident severity.
 - Current Year vs Previous Year analysis
 
 ## Dashboard
-
-![Road Accident Dashboard](Road_Accident_Dashboard.png)
+EXCEL 
+![Road Accident Dashboard](https://github.com/thamaraikannan1722/Road-Accident-Analysis/blob/f60e19289764fa223808a1fa86774afc3152d96c/Road%20Accident%20Excel.png)
+![Road Accident Dashboard](
 
 ## Project Files
 
