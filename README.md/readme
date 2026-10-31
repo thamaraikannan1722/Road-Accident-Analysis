@@ -1,25 +1,64 @@
-# 🚗 Road Accident Analysis
+ 🚗 Road Accident Analysis
 
 ## 📌 Project Overview
 
-This project is an end-to-end **Road Accident Analysis** project developed using **SQL, Microsoft Excel, and Power BI**.
+This project is an end-to-end *Road Accident Analysis* project developed using *SQL, Microsoft Excel, and Power BI*.
 
-The objective is to analyze road accident casualties, identify accident patterns, compare **Current Year (CY)** with **Previous Year (PY)**, and understand the impact of factors such as vehicle type, road type, road surface, light conditions, urban/rural areas, weather conditions, and location.
+The objective is to analyze road accident casualties, identify accident patterns, compare *Current Year (CY)* with *Previous Year (PY)*, and understand the impact of factors such as vehicle type, road type, road surface, light conditions, urban/rural areas, weather conditions, and location.
 
+##Dashboards
+
+![EXCEL]( )
+
+![POWER BI]()
 ### 🔄 Project Workflow
 
-**Raw Data → SQL Analysis → Excel Dashboard → Power BI Dashboard → Insights**
+*Raw Data → SQL Analysis → Excel Dashboard → Power BI Dashboard → Insights*
 
 ---
 
 ## 🛠️ Tools Used
 
-- 🗄️ **SQL** – Data analysis and KPI calculations
-- 📊 **Microsoft Excel** – Data analysis and dashboard creation
-- 📈 **Power BI** – Interactive dashboard and visualization
-- 💻 **GitHub** – Project documentation and portfolio
+- 🗄️ *SQL* – Data analysis and KPI calculations
+- 📊 *Microsoft Excel* – Data analysis and dashboard creation
+- 📈 *Power BI* – Interactive dashboard and visualization
+- 💻 *GitHub* – Project documentation and portfolio
 
----
+🧠 Skills Demonstrated
+
+🗄️ SQL
+SELECT
+WHERE
+GROUP BY
+ORDER BY
+SUM()
+COUNT()
+DISTINCT
+CASE
+YEAR()
+DATENAME()
+Subqueries
+Percentage calculations
+
+
+📊 Excel
+Data Analysis
+Dashboard Creation
+KPI Reporting
+Charts
+Trend Analysis
+Data Visualization
+
+📈 Power BI
+KPI Cards
+Line Charts
+Bar Charts
+Donut Charts
+Map Visualization
+Slicers
+Interactive Filters
+Year-over-Year Analysis
+Dashboard Design
 
 ## 🔍 SQL Analysis
 
@@ -111,7 +150,7 @@ The Power BI dashboard provides an interactive view of the road accident analysi
 
 ## 📅 Current Year vs Previous Year
 
-The project compares **2022 Current Year (CY)** casualties with **2021 Previous Year (PY)** casualties.
+The project compares *2022 Current Year (CY)* casualties with *2021 Previous Year (PY)* casualties.
 
 The monthly trend analysis helps identify changes in casualty levels throughout the year.
 
@@ -119,7 +158,7 @@ The monthly trend analysis helps identify changes in casualty levels throughout 
 
 ## 📍 Location Analysis
 
-A **Top 10 Location Analysis** was performed using local authority information to identify locations with the highest number of casualties.
+A *Top 10 Location Analysis* was performed using local authority information to identify locations with the highest number of casualties.
 
 This helps highlight areas that may require further investigation and road-safety attention.
 
